@@ -1,0 +1,9 @@
+comandos 
+
+ cd Users\pedro\eclipse-workspace\Socket\src
+
+javac socket/UDPReceiver.java socket/UDPSender.java
+
+java socket.UDPReceiver
+
+java socket.UDPSender
